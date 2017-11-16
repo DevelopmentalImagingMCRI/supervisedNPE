@@ -1,6 +1,6 @@
 # supervisedNPE
 Example Matlab code to run supervised neihbourhood preserving embedding (NPE) to detect patterns of variation in
-MRI as described in [Ball et al] (https://www.biorxiv.org/content/early/2017/04/11/126441).
+MRI as described in [Ball et al](https://www.biorxiv.org/content/early/2017/04/11/126441).
 
 
 This repository makes use of the following code:
